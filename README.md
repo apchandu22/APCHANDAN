@@ -29,124 +29,21 @@ I focus on identifying defects early, validating application functionality, crea
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/apchandan22/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:apchandu22@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/apchandu22">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
 
 ---
-
-## 🛠️ Tech Stack
-
-### 🧪 Testing
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Manual%20Testing-Quality%20Assurance-2E86C1?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Web%20Testing-Web%20Applications-3498DB?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Mobile%20Testing-Android%20%7C%20iOS-27AE60?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Functional%20Testing-QA-F39C12?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Regression%20Testing-QA-8E44AD?style=for-the-badge" />
-
-</p>
-
-### 🔗 API Testing & Automation
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<img src="https://img.shields.io/badge/REST%20API-API%20Testing-00897B?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/REST%20Assured-API%20Automation-6DB33F?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/JSON-Validation-000000?style=for-the-badge&logo=json&logoColor=white" />
-
-</p>
-
-### 🤖 Automation
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Java-Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/TestNG-Testing-FF0000?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</p>
-
-### 🔧 Tools & DevOps
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/JIRA-Defect%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-Code%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-
-</p>
-
-### 🤖 GenAI & AI Testing
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/GenAI-AI%20Testing-7B61FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Gemini-AI%20Assisted%20Testing-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-
-<img src="https://img.shields.io/badge/AI%20Test%20Case%20Generation-Testing-8E44AD?style=for-the-badge" />
-
-</p>
-
----
-
-## 🎯 Core Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MANUAL%20TESTING-2E86C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API%20TESTING-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AUTOMATION%20TESTING-43B02A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WEB%20TESTING-3498DB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MOBILE%20TESTING-27AE60?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20ASSURED-6DB33F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GENAI-7B61FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge" />
-
-</p>
 
 ## 🛠️ Technical Skills
 
