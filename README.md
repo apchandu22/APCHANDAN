@@ -249,25 +249,37 @@ Examples of using GenAI and Gemini to improve QA productivity.
 ```text
 Requirement Analysis
         ↓
-Test Scenario Design
+Test Planning & Risk Assessment
         ↓
-Test Case Design
+Test Scenario & Test Case Design
         ↓
-Test Data Preparation
+Test Data & Environment Preparation
         ↓
-Manual Testing
+Smoke Testing
         ↓
-API Testing
+Manual Functional Testing
+        ↓
+Web & Mobile Testing
+        ↓
+API Testing & Backend Validation
         ↓
 Automation Testing
         ↓
-Defect Reporting
+REST Assured API Automation
+        ↓
+Integration & End-to-End Testing
+        ↓
+Defect Reporting & Root Cause Analysis
         ↓
 Defect Retesting
         ↓
 Regression Testing
         ↓
+Exploratory Testing
+        ↓
 Release Validation
+        ↓
+Post-Release Verification
 ```
 
 ---
