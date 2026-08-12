@@ -44,6 +44,74 @@ I focus on identifying defects early, validating application functionality, crea
 </p>
 
 ---
+## 🛠️ Tech Stack
+
+### 🧪 Testing
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" width="42" title="Selenium"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="42" title="JIRA"/>
+  <img src="https://cdn.simpleicons.org/testng/FF0000" width="42" title="TestNG"/>
+</p>
+
+### ☕ Programming & Automation
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" title="Java"/>
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="42" title="Maven"/>
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" width="42" title="Selenium WebDriver"/>
+</p>
+
+### 🔗 API Testing
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/json/000000" width="42" title="JSON"/>
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="42" title="REST API"/>
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" title="MySQL"/>
+</p>
+
+### 🔧 Tools & Version Control
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="42" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="42" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" width="42" title="Jenkins"/>
+</p>
+
+### 🤖 AI & GenAI
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" title="Gemini"/>
+</p>
+
+### 📱 Testing Platforms
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="42" title="Android"/>
+  <img src="https://cdn.simpleicons.org/apple/000000" width="42" title="iOS"/>
+</p>
+
+---
+
+### 🎯 Core Testing Skills
+
+<p align="center">
+  <b>Manual Testing</b> •
+  <b>Web Testing</b> •
+  <b>Mobile Testing</b> •
+  <b>API Testing</b> •
+  <b>Automation Testing</b> •
+  <b>REST Assured</b> •
+  <b>Regression Testing</b> •
+  <b>Functional Testing</b>
+</p>
 
 ## 🛠️ Technical Skills
 
