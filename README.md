@@ -48,88 +48,42 @@ I focus on identifying defects early, validating application functionality, crea
 
 ### 🧪 Testing
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" title="Selenium"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" title="Postman"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jira/0052CC" width="40" title="JIRA"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/testng/FF0000" width="40" title="TestNG"/>
-</p>
+<img src="https://img.shields.io/badge/Manual%20Testing-2E86C1?style=flat-square" />
+<img src="https://img.shields.io/badge/Web%20Testing-3498DB?style=flat-square" />
+<img src="https://img.shields.io/badge/Mobile%20Testing-27AE60?style=flat-square" />
+<img src="https://img.shields.io/badge/Functional%20Testing-F39C12?style=flat-square" />
+<img src="https://img.shields.io/badge/Regression%20Testing-8E44AD?style=flat-square" />
 
-### ☕ Automation & Programming
+### 🤖 Automation
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" title="Java"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="40" title="Maven"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" title="Selenium"/>
-</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-FF0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
 
 ### 🔗 API Testing
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" title="Postman"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/json/000000" width="40" title="JSON"/>
-&nbsp;&nbsp;
-<b>REST Assured</b>
-</p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-00897B?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=flat-square" />
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
 
 ### 🗄️ Database
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" title="MySQL"/>
-&nbsp;&nbsp;
-<b>SQL</b>
-</p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 ### 🔧 Tools
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jenkins/D24939" width="40" title="Jenkins"/>
-</p>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 
-### 🤖 AI & GenAI
+### 🧠 AI & GenAI
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" title="Gemini"/>
-&nbsp;&nbsp;
-<b>GenAI</b>
-</p>
-
-### 📱 Platforms
-
-<p align="left">
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="40" title="Android"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apple/000000" width="40" title="iOS"/>
-&nbsp;&nbsp;
-<b>Web Applications</b>
-</p>
-
----
-
-### 🎯 Core Testing Skills
-
-<p align="center">
-Manual Testing &nbsp;•&nbsp;
-Web Testing &nbsp;•&nbsp;
-Mobile Testing &nbsp;•&nbsp;
-API Testing &nbsp;•&nbsp;
-Automation Testing &nbsp;•&nbsp;
-REST Assured &nbsp;•&nbsp;
-Regression Testing &nbsp;•&nbsp;
-Functional Testing
-</p>
-
-
+<img src="https://img.shields.io/badge/GenAI-7B61FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
 ## 🛠️ Technical Skills
 
 ### 🧪 Manual Testing
