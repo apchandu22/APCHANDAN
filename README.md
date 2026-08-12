@@ -49,53 +49,69 @@ I focus on identifying defects early, validating application functionality, crea
 ### 🧪 Testing
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" width="42" title="Selenium"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" title="Postman"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="42" title="JIRA"/>
-  <img src="https://cdn.simpleicons.org/testng/FF0000" width="42" title="TestNG"/>
+<img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" title="Selenium"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" title="Postman"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="40" title="JIRA"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/testng/FF0000" width="40" title="TestNG"/>
 </p>
 
-### ☕ Programming & Automation
+### ☕ Automation & Programming
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" title="Java"/>
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="42" title="Maven"/>
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" width="42" title="Selenium WebDriver"/>
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" title="Java"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="40" title="Maven"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" title="Selenium"/>
 </p>
 
 ### 🔗 API Testing
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" title="Postman"/>
-  <img src="https://cdn.simpleicons.org/json/000000" width="42" title="JSON"/>
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="42" title="REST API"/>
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" title="Postman"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/json/000000" width="40" title="JSON"/>
+&nbsp;&nbsp;
+<b>REST Assured</b>
 </p>
 
 ### 🗄️ Database
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" title="MySQL"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" title="MySQL"/>
+&nbsp;&nbsp;
+<b>SQL</b>
 </p>
 
-### 🔧 Tools & Version Control
+### 🔧 Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="42" title="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="42" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/jenkins/D24939" width="42" title="Jenkins"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jenkins/D24939" width="40" title="Jenkins"/>
 </p>
 
 ### 🤖 AI & GenAI
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" title="Gemini"/>
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" title="Gemini"/>
+&nbsp;&nbsp;
+<b>GenAI</b>
 </p>
 
-### 📱 Testing Platforms
+### 📱 Platforms
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="42" title="Android"/>
-  <img src="https://cdn.simpleicons.org/apple/000000" width="42" title="iOS"/>
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="40" title="Android"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apple/000000" width="40" title="iOS"/>
+&nbsp;&nbsp;
+<b>Web Applications</b>
 </p>
 
 ---
@@ -103,15 +119,16 @@ I focus on identifying defects early, validating application functionality, crea
 ### 🎯 Core Testing Skills
 
 <p align="center">
-  <b>Manual Testing</b> •
-  <b>Web Testing</b> •
-  <b>Mobile Testing</b> •
-  <b>API Testing</b> •
-  <b>Automation Testing</b> •
-  <b>REST Assured</b> •
-  <b>Regression Testing</b> •
-  <b>Functional Testing</b>
+Manual Testing &nbsp;•&nbsp;
+Web Testing &nbsp;•&nbsp;
+Mobile Testing &nbsp;•&nbsp;
+API Testing &nbsp;•&nbsp;
+Automation Testing &nbsp;•&nbsp;
+REST Assured &nbsp;•&nbsp;
+Regression Testing &nbsp;•&nbsp;
+Functional Testing
 </p>
+
 
 ## 🛠️ Technical Skills
 
