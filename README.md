@@ -335,11 +335,11 @@ Quality Engineering 🚀
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/apchandan22/
 
-📧 Email: Add your professional email
+📧 Email: apchandu22@gmail.com
 
-🐙 GitHub: Add your GitHub URL
+🐙 GitHub: https://github.com/apchandu22
 
 ---
 
