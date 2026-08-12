@@ -1,5 +1,3 @@
-# APCHANDAN
-
 # Hi, I'm A P Chandan 👋
 
 ### Software Test Engineer
