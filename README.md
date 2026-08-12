@@ -44,25 +44,6 @@ I focus on identifying defects early, validating application functionality, crea
 </p>
 
 ---
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,git,github,jenkins" />
-
-</p>
-
-**Testing:** Manual Testing • Web Testing • Mobile Testing • API Testing • Automation Testing
-
-**Automation:** Selenium • Java • TestNG • REST Assured
-
-**API:** Postman • REST API • JSON
-
-**Database:** SQL • MySQL
-
-**AI:** GenAI • Gemini
 
 ## 🛠️ Technical Skills
 
