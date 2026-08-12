@@ -46,44 +46,24 @@ I focus on identifying defects early, validating application functionality, crea
 ---
 ## 🛠️ Tech Stack
 
-### 🧪 Testing
+## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/Manual%20Testing-2E86C1?style=flat-square" />
-<img src="https://img.shields.io/badge/Web%20Testing-3498DB?style=flat-square" />
-<img src="https://img.shields.io/badge/Mobile%20Testing-27AE60?style=flat-square" />
-<img src="https://img.shields.io/badge/Functional%20Testing-F39C12?style=flat-square" />
-<img src="https://img.shields.io/badge/Regression%20Testing-8E44AD?style=flat-square" />
+<p align="left">
 
-### 🤖 Automation
+<img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,git,github,jenkins" />
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/TestNG-FF0000?style=flat-square" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+</p>
 
-### 🔗 API Testing
+**Testing:** Manual Testing • Web Testing • Mobile Testing • API Testing • Automation Testing
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-00897B?style=flat-square" />
-<img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=flat-square" />
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+**Automation:** Selenium • Java • TestNG • REST Assured
 
-### 🗄️ Database
+**API:** Postman • REST API • JSON
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+**Database:** SQL • MySQL
 
-### 🔧 Tools
+**AI:** GenAI • Gemini
 
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-
-### 🧠 AI & GenAI
-
-<img src="https://img.shields.io/badge/GenAI-7B61FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
 ## 🛠️ Technical Skills
 
 ### 🧪 Manual Testing
