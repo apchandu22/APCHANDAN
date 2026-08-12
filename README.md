@@ -44,25 +44,6 @@ I focus on identifying defects early, validating application functionality, crea
 </p>
 
 ---
-## 🛠️ Tech Stack
-
-**🧪 Testing**  
-Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing
-
-**🌐 Web & Mobile**  
-Web Application Testing • Android Testing • iOS Testing • Cross-Browser Testing
-
-**🔗 API & Automation**  
-API Testing • Postman • REST Assured • Selenium WebDriver • TestNG • Java
-
-**🗄️ Database**  
-SQL • MySQL
-
-**🔧 Tools & CI/CD**  
-JIRA • Git • GitHub • Jenkins • Maven
-
-**🤖 AI & GenAI**  
-GenAI • Gemini • AI-Assisted Test Case Generation • AI-Assisted Testing
 
 ## 🛠️ Technical Skills
 
