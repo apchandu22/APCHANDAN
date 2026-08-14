@@ -165,19 +165,6 @@ Examples of using GenAI to support test scenario creation, test case generation,
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apchandu22&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apchandu22&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=apchandu22&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 🎯 Core QA Expertise
 
 | Area | Skills |
@@ -212,7 +199,6 @@ GenAI for QA
       =
 Quality Engineering 🚀
 ```
-
 ---
 
 ## 📫 Connect With Me
