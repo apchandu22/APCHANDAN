@@ -9,12 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/apchandan22/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:apchandu22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/apchandan22/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:apchandu22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -145,9 +141,25 @@ End-to-end manual testing portfolio covering:
 
 👉 **[View Manual Testing Project](https://github.com/apchandu22/manual-testing-project)**
 
-### 🔗 API Testing
+### 🔗 Postman API Testing Project
 
-Postman-based REST API testing covering request/response validation, status codes, authentication, positive/negative scenarios and API chaining.
+Comprehensive REST API testing portfolio covering:
+
+- API Requirements & Test Strategy
+- API Test Scenarios & Test Cases
+- GET / POST / PUT / PATCH / DELETE
+- Positive & Negative Testing
+- Boundary & Validation Testing
+- Authentication & Authorization
+- Status Code & JSON Validation
+- Postman Environment Variables
+- API Chaining
+- Postman Test Scripts
+- Defect Reporting & Retesting
+- API Regression Testing
+- API Test Execution & Reporting
+
+👉 **[View Postman API Testing Project](https://github.com/apchandu22/manual-testing-project/tree/main/10-API-Testing)**
 
 ### 🚀 Selenium Automation
 
