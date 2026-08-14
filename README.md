@@ -15,64 +15,74 @@
   <a href="mailto:apchandu22@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/apchandu22">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Software Test Engineer with **3+ years of experience** in software testing, with a primary focus on **Manual Testing** and hands-on exposure to **API and Automation Testing**.
+Software Test Engineer with **3+ years of experience** in Software Testing, specializing in **Manual Testing** with hands-on experience in **API and Automation Testing**.
 
-Experienced in validating Web and Mobile applications across **Android, iOS and Web**, with strong coverage of functional, regression, smoke, sanity, integration, system and end-to-end testing.
+Experienced in testing **Web, Android and iOS applications** across functional, regression, smoke, sanity, integration, system and end-to-end testing. Strong experience in test case design, defect management, API validation, SQL validation and Agile/Scrum practices.
 
-### What I work with
+### 🧪 Core QA Expertise
 
-- 🧪 Manual Testing and Test Case Design
-- 🌐 Web Application Testing
-- 📱 Android & iOS Testing
-- 🔗 REST API Testing using Postman
-- 🗄️ SQL / MySQL Validation
-- 🐞 JIRA Defect Management
-- 📋 Test Planning, RTM and Test Execution
-- 🔄 Agile / Scrum and STLC
-- 🤖 Selenium WebDriver with Java & TestNG
-- 🚀 REST Assured API Automation
-- 🤖 GenAI-assisted QA and test case generation
-- 🔧 Git, GitHub, Jenkins, Kibana & Grafana
+- Requirement Analysis & Test Planning
+- Test Scenario & Test Case Design
+- Functional, Regression, Smoke & Sanity Testing
+- Integration, System & End-to-End Testing
+- Positive, Negative & Boundary Testing
+- Exploratory & Compatibility Testing
+- Defect Reporting, Tracking & Retesting
+- RTM & Test Execution Reporting
+- REST API Testing using Postman
+- SQL / MySQL Data Validation
 
 ---
 
-## 🧪 Manual Testing Skills
+## 🛠️ Tools & Technologies
 
-`Functional Testing` `Regression Testing` `Smoke Testing` `Sanity Testing` `Integration Testing` `System Testing` `E2E Testing` `Exploratory Testing` `Usability Testing` `Negative Testing` `Boundary Value Analysis` `Equivalence Partitioning` `Cross-Browser Testing`
+| Category | Skills |
+|---|---|
+| Test Management | JIRA, Zephyr, RTM |
+| API Testing | Postman, REST API, REST Assured |
+| Database | SQL, MySQL |
+| Automation | Selenium WebDriver, Java, TestNG, Maven, POM |
+| Web Testing | Functional, UI, Cross-Browser, Compatibility |
+| Mobile Testing | Android, iOS, Functional, UI, Usability, Regression |
+| Logs & Monitoring | Application Logs, Kibana, Grafana |
+| CI / Version Control | Git, GitHub, Jenkins |
+| Methodology | Agile / Scrum, STLC, SDLC |
+| AI for QA | GenAI-assisted Test Case & Scenario Generation |
+
+---
 
 ## 🔗 API Testing
 
-`Postman` `REST API` `GET` `POST` `PUT` `DELETE` `JSON` `Status Code Validation` `Request/Response Validation` `Headers` `Parameters` `Authentication` `API Chaining` `Environment Variables` `Negative Testing`
+Hands-on API testing using Postman with coverage of:
+
+`GET` `POST` `PUT` `DELETE` `JSON` `Status Codes` `Headers` `Parameters` `Authentication` `Request/Response Validation` `API Chaining` `Environment Variables` `Positive & Negative Testing`
+
+---
 
 ## 🤖 Automation Testing
 
-`Selenium WebDriver` `Java` `TestNG` `Maven` `POM` `XPath` `CSS Selectors` `Explicit Waits` `Assertions` `Data-Driven Testing` `REST Assured`
+Automation exposure using:
 
-## 🗄️ Database Testing
+`Selenium WebDriver` `Java` `TestNG` `Maven` `Page Object Model` `XPath` `CSS Selectors` `Explicit Waits` `Assertions` `Data-Driven Testing` `REST Assured`
 
-`SQL` `MySQL` `Data Validation` `Backend Validation` `Joins` `Subqueries` `Aggregations`
-
-## 🛠️ QA Tools
-
-`JIRA` `Zephyr` `Postman` `Kibana` `Grafana` `Git` `GitHub` `Jenkins` `Maven`
+---
 
 ## 🤖 GenAI for QA
 
-- AI-assisted test scenario generation
+Using GenAI to support QA activities such as:
+
+- Test scenario generation
 - Test case generation and optimization
+- Positive and negative scenario generation
 - Test data generation
-- Negative scenario generation
 - Defect analysis assistance
-- QA documentation assistance
+- QA documentation
 - Automation code assistance
 
 ---
@@ -117,7 +127,7 @@ Test Closure / Summary
 
 ### 🧪 Manual Testing Project
 
-End-to-end manual testing portfolio demonstrating:
+End-to-end manual testing portfolio covering:
 
 - Requirements Analysis
 - Test Plan
@@ -129,76 +139,47 @@ End-to-end manual testing portfolio demonstrating:
 - Smoke / Sanity Testing
 - Functional / Integration / E2E Testing
 - Regression Testing
-- Jira Defect Management
+- JIRA Defect Management
 - Test Execution
 - Test Summary
 
-**Repository:** `manual-testing-project`
+👉 **[View Manual Testing Project](https://github.com/apchandu22/manual-testing-project)**
 
-### 🔗 Postman API Testing
+### 🔗 API Testing
 
-REST API testing examples covering:
+Postman-based REST API testing covering request/response validation, status codes, authentication, positive/negative scenarios and API chaining.
 
-- GET / POST / PUT / DELETE
-- Positive & Negative Testing
-- Status Code Validation
-- JSON Validation
-- Request / Response Validation
-- API Chaining
-- Environment Variables
+### 🚀 Selenium Automation
 
-### 🚀 REST Assured API Automation
-
-API automation using Java, REST Assured, TestNG and Maven.
-
-### 🤖 Selenium Automation Framework
-
-Web automation using Selenium WebDriver, Java and TestNG with Page Object Model and reusable components.
+Selenium WebDriver automation using Java, TestNG, Maven and Page Object Model.
 
 ### 📱 Mobile Testing
 
-Manual testing examples covering Android and iOS functional, compatibility, usability, installation, upgrade, network and regression scenarios.
+Manual testing examples covering Android and iOS functional, compatibility, usability, network and regression scenarios.
 
 ### 🤖 GenAI QA Testing
 
-Examples of using GenAI to support test scenario creation, test case generation, test data, defect analysis and QA documentation.
+QA examples demonstrating GenAI-assisted test scenario creation, test case generation, test data and defect analysis.
 
 ---
 
-## 🎯 Core QA Expertise
+## 📊 GitHub Statistics
 
-| Area | Skills |
-|---|---|
-| Manual Testing | Functional, Regression, Smoke, Sanity, Integration, System, E2E |
-| Web Testing | Functional, UI, Cross-Browser, Compatibility |
-| Mobile Testing | Android, iOS, Functional, UI, Usability, Regression |
-| API Testing | Postman, REST API, JSON, Request/Response Validation |
-| Automation | Selenium, Java, TestNG, REST Assured |
-| Database | SQL, MySQL, Data Validation |
-| Test Management | JIRA, Zephyr, RTM, Test Execution |
-| Monitoring | Logs, Kibana, Grafana |
-| Methodology | Agile / Scrum, STLC, SDLC |
-| AI for QA | GenAI-assisted Testing, Test Case Generation |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apchandu22&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apchandu22&layout=compact&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=apchandu22&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
-## 📌 Currently Focused On
+## 🎯 Why QA?
 
-```text
-Manual Testing
-      +
-API Testing
-      +
-Selenium Automation
-      +
-REST Assured
-      +
-Java
-      +
-GenAI for QA
-      =
-Quality Engineering 🚀
-```
+I enjoy finding defects before users do, understanding application behavior, designing meaningful test coverage, and improving software quality through structured testing and continuous learning.
+
 ---
 
 ## 📫 Connect With Me
@@ -206,7 +187,7 @@ Quality Engineering 🚀
 <p align="center">
   <a href="https://www.linkedin.com/in/apchandan22/">LinkedIn</a> •
   <a href="mailto:apchandu22@gmail.com">Email</a> •
-  <a href="https://github.com/apchandu22">GitHub</a>
+  <strong>📞 Call: 8880995886</strong>
 </p>
 
 <p align="center">
