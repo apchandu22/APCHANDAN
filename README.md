@@ -123,7 +123,7 @@ Test Closure / Summary
 
 ### 🧪 Manual Testing Project
 
-End-to-end manual testing portfolio covering:
+End-to-end manual testing covering:
 
 - Requirements Analysis
 - Test Plan
@@ -143,7 +143,7 @@ End-to-end manual testing portfolio covering:
 
 ### 🔗 Postman API Testing Project
 
-Comprehensive REST API testing portfolio covering:
+Comprehensive REST API testing covering:
 
 - API Requirements & Test Strategy
 - API Test Scenarios & Test Cases
