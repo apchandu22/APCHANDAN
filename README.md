@@ -1,379 +1,232 @@
-# Hi, I'm A P Chandan 👋
+# 👋 Hi, I'm A P Chandan
 
-### Software Test Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Software+Test+Engineer;Manual+Testing+%7C+API+Testing+%7C+Automation+Testing;Web+%26+Mobile+Application+Testing;JIRA+%7C+Postman+%7C+SQL+%7C+Selenium+%7C+Java;Agile+%2F+Scrum+%7C+STLC+%7C+SDLC" alt="Typing animation" />
+</p>
 
-**Manual Testing | API Testing | Web & Mobile Testing | Automation Testing | Selenium | REST Assured | Java | Postman | SQL | GenAI | Gemini**
----
+<p align="center">
+  <strong>Software Test Engineer | Manual Testing | API Testing | Web & Mobile Testing | Automation Testing</strong>
+</p>
 
-## 👨‍💻 About Me
-
-I'm a Software Test Engineer with 3+ years of experience in Software Testing, specializing in **Manual Testing, Web & Mobile Application Testing, API Testing, and Automation Testing**.
-
-I focus on identifying defects early, validating application functionality, creating effective test scenarios, and improving testing efficiency through automation and AI-assisted testing.
-
-* 🧪 Manual Testing of Web & Mobile Applications
-* 🌐 Web Application Testing
-* 📱 Android & iOS Application Testing
-* 🔗 API Testing using Postman
-* 🚀 API Automation using REST Assured
-* 🤖 UI Automation using Selenium WebDriver
-* ☕ Java & TestNG
-* 🗄️ SQL / MySQL Database Validation
-* 🤖 GenAI-assisted Testing
-* ✨ Gemini for test case generation and testing assistance
-* 🔧 JIRA, Git, GitHub & Jenkins
-* 🔄 Agile / Scrum
-
----
-## 🌐 Socials
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/apchandan22/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:apchandu22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/apchandu22">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/apchandan22/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:apchandu22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/apchandu22">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-### 🧪 Manual Testing
+Software Test Engineer with **3+ years of experience** in software testing, with a primary focus on **Manual Testing** and hands-on exposure to **API and Automation Testing**.
 
-* Functional Testing
-* Regression Testing
-* Smoke Testing
-* Sanity Testing
-* Integration Testing
-* System Testing
-* Exploratory Testing
-* Usability Testing
-* End-to-End Testing
-* Cross-Browser Testing
-* Web Application Testing
-* Mobile Application Testing
-* Android Testing
-* iOS Testing
-* Test Case Design & Execution
-* Defect Reporting & Tracking
+Experienced in validating Web and Mobile applications across **Android, iOS and Web**, with strong coverage of functional, regression, smoke, sanity, integration, system and end-to-end testing.
 
-### 🔗 API Testing
+### What I work with
 
-* REST API Testing
-* Postman
-* GET / POST / PUT / DELETE
-* Request & Response Validation
-* JSON Validation
-* Status Code Validation
-* Headers & Parameters
-* Positive & Negative Testing
-* API Chaining
-* Environment Variables
-* Collection Variables
-
-### 🚀 REST Assured
-
-* REST Assured API Automation
-* Java
-* TestNG
-* Request Specification
-* Response Specification
-* JSON Validation
-* Response Assertions
-* Status Code Assertions
-* Headers & Parameters
-* Reusable API Methods
-* Data-Driven API Testing
-
-### 🤖 Automation Testing
-
-* Selenium WebDriver
-* Java
-* TestNG
-* Maven
-* Page Object Model
-* Data-Driven Framework
-* Hybrid Framework
-* Explicit Waits
-* XPath & CSS Selectors
-* Assertions
-* Screenshots
-* Reusable Automation Components
-
-### 🤖 GenAI & Gemini
-
-* AI-Assisted Test Case Generation
-* Test Scenario Generation
-* Test Data Generation
-* Test Case Optimization
-* Defect Analysis Assistance
-* Test Automation Assistance
-* Using Gemini for QA productivity
-* AI-assisted documentation
-
-### 🗄️ Database Testing
-
-* SQL
-* MySQL
-* Data Validation
-* Backend Validation
-* Database Verification
-* Joins
-* Subqueries
-* Aggregations
-
-### 🔧 Tools
-
-`JIRA` `Git` `GitHub` `Jenkins` `Postman` `Maven` `Kibana` `Grafana`
+- 🧪 Manual Testing and Test Case Design
+- 🌐 Web Application Testing
+- 📱 Android & iOS Testing
+- 🔗 REST API Testing using Postman
+- 🗄️ SQL / MySQL Validation
+- 🐞 JIRA Defect Management
+- 📋 Test Planning, RTM and Test Execution
+- 🔄 Agile / Scrum and STLC
+- 🤖 Selenium WebDriver with Java & TestNG
+- 🚀 REST Assured API Automation
+- 🤖 GenAI-assisted QA and test case generation
+- 🔧 Git, GitHub, Jenkins, Kibana & Grafana
 
 ---
 
-## 📂 Featured Projects
+## 🧪 Manual Testing Skills
 
-### 🧪 Manual Testing Project
+`Functional Testing` `Regression Testing` `Smoke Testing` `Sanity Testing` `Integration Testing` `System Testing` `E2E Testing` `Exploratory Testing` `Usability Testing` `Negative Testing` `Boundary Value Analysis` `Equivalence Partitioning` `Cross-Browser Testing`
 
-A complete manual testing project demonstrating real-world QA practices.
+## 🔗 API Testing
 
-**Includes:**
+`Postman` `REST API` `GET` `POST` `PUT` `DELETE` `JSON` `Status Code Validation` `Request/Response Validation` `Headers` `Parameters` `Authentication` `API Chaining` `Environment Variables` `Negative Testing`
 
-* Requirements Analysis
-* Test Scenarios
-* Test Cases
-* Test Data
-* RTM
-* Functional Testing
-* Regression Testing
-* Smoke Testing
-* Sanity Testing
-* Defect Reports
+## 🤖 Automation Testing
 
-**Skills:** Manual Testing | Web Testing | Mobile Testing | JIRA
+`Selenium WebDriver` `Java` `TestNG` `Maven` `POM` `XPath` `CSS Selectors` `Explicit Waits` `Assertions` `Data-Driven Testing` `REST Assured`
 
----
+## 🗄️ Database Testing
 
-### 🔗 Postman API Testing
+`SQL` `MySQL` `Data Validation` `Backend Validation` `Joins` `Subqueries` `Aggregations`
 
-API testing collection covering complete REST API validation.
+## 🛠️ QA Tools
 
-**Includes:**
+`JIRA` `Zephyr` `Postman` `Kibana` `Grafana` `Git` `GitHub` `Jenkins` `Maven`
 
-* GET
-* POST
-* PUT
-* DELETE
-* Positive Testing
-* Negative Testing
-* Status Code Validation
-* JSON Validation
-* API Chaining
-* Environment Variables
+## 🤖 GenAI for QA
 
-**Skills:** Postman | REST API | JSON | API Testing
+- AI-assisted test scenario generation
+- Test case generation and optimization
+- Test data generation
+- Negative scenario generation
+- Defect analysis assistance
+- QA documentation assistance
+- Automation code assistance
 
 ---
 
-### 🚀 REST Assured API Automation
-
-API automation framework developed using Java, REST Assured and TestNG.
-
-**Includes:**
-
-* GET / POST / PUT / DELETE
-* Request Validation
-* Response Validation
-* JSON Assertions
-* Status Code Validation
-* Headers & Parameters
-* Request Specification
-* Response Specification
-* Reusable Methods
-* TestNG Assertions
-* Maven
-
-**Skills:** REST Assured | Java | TestNG | Maven | API Automation
-
----
-
-### 🤖 Selenium Automation Framework
-
-Web automation framework using Selenium WebDriver, Java and TestNG.
-
-**Includes:**
-
-* Page Object Model
-* Reusable Methods
-* Explicit Waits
-* XPath & CSS
-* TestNG
-* Assertions
-* Data-Driven Testing
-* Screenshot Capture
-* Maven
-* Git
-
-**Skills:** Selenium | Java | TestNG | POM | Automation
-
----
-
-### 📱 Mobile Application Testing
-
-Sample test scenarios and test cases for Android and iOS applications.
-
-**Includes:**
-
-* Functional Testing
-* UI Testing
-* Usability Testing
-* Compatibility Testing
-* Installation Testing
-* Upgrade Testing
-* Network Testing
-* Regression Testing
-* End-to-End Testing
-
-**Skills:** Mobile Testing | Android | iOS | Manual Testing
-
----
-
-### 🤖 GenAI for QA Testing
-
-Examples of using GenAI and Gemini to improve QA productivity.
-
-**Includes:**
-
-* AI-generated test scenarios
-* AI-assisted test cases
-* Test data generation
-* Negative test scenario generation
-* Defect analysis
-* Test case optimization
-* Automation code assistance
-* QA documentation assistance
-
-**Skills:** GenAI | Gemini | AI-Assisted Testing | QA
-
----
-
-## 🔄 My Testing Approach
+## 🔄 QA Testing Flow
 
 ```text
 Requirement Analysis
         ↓
-Test Planning & Risk Assessment
+Test Planning
         ↓
-Test Scenario & Test Case Design
+Test Scenario Design
         ↓
-Test Data & Environment Preparation
+Test Case Design
+        ↓
+Test Data Preparation
+        ↓
+Environment & Build Validation
         ↓
 Smoke Testing
         ↓
-Manual Functional Testing
+Functional Testing
         ↓
-Web & Mobile Testing
+Integration Testing
         ↓
-API Testing & Backend Validation
+System / End-to-End Testing
         ↓
-Automation Testing
-        ↓
-REST Assured API Automation
-        ↓
-Integration & End-to-End Testing
-        ↓
-Defect Reporting & Root Cause Analysis
+Defect Reporting & Tracking
         ↓
 Defect Retesting
         ↓
 Regression Testing
         ↓
-Exploratory Testing
-        ↓
 Release Validation
         ↓
-Post-Release Verification
+Test Closure / Summary
 ```
 
 ---
 
-## 📊 Core Skills
+## 📂 Featured QA Projects
 
-| Area              | Technologies                          |
-| ----------------- | ------------------------------------- |
-| Manual Testing    | Functional, Regression, Smoke, Sanity |
-| Web Testing       | Web Applications, Cross-Browser       |
-| Mobile Testing    | Android, iOS                          |
-| API Testing       | Postman, REST API                     |
-| API Automation    | REST Assured                          |
-| UI Automation     | Selenium WebDriver                    |
-| Programming       | Java                                  |
-| Test Framework    | TestNG                                |
-| Database          | SQL, MySQL                            |
-| AI Testing        | GenAI, Gemini                         |
-| CI/CD             | Jenkins                               |
-| Version Control   | Git, GitHub                           |
-| Defect Management | JIRA                                  |
-| Methodology       | Agile / Scrum                         |
+### 🧪 Manual Testing Project
+
+End-to-end manual testing portfolio demonstrating:
+
+- Requirements Analysis
+- Test Plan
+- Testing Strategy & Testing Approaches
+- Test Scenarios
+- Test Cases
+- Test Data
+- RTM
+- Smoke / Sanity Testing
+- Functional / Integration / E2E Testing
+- Regression Testing
+- Jira Defect Management
+- Test Execution
+- Test Summary
+
+**Repository:** `manual-testing-project`
+
+### 🔗 Postman API Testing
+
+REST API testing examples covering:
+
+- GET / POST / PUT / DELETE
+- Positive & Negative Testing
+- Status Code Validation
+- JSON Validation
+- Request / Response Validation
+- API Chaining
+- Environment Variables
+
+### 🚀 REST Assured API Automation
+
+API automation using Java, REST Assured, TestNG and Maven.
+
+### 🤖 Selenium Automation Framework
+
+Web automation using Selenium WebDriver, Java and TestNG with Page Object Model and reusable components.
+
+### 📱 Mobile Testing
+
+Manual testing examples covering Android and iOS functional, compatibility, usability, installation, upgrade, network and regression scenarios.
+
+### 🤖 GenAI QA Testing
+
+Examples of using GenAI to support test scenario creation, test case generation, test data, defect analysis and QA documentation.
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apchandu22&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apchandu22&layout=compact&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=apchandu22&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🎯 Core QA Expertise
+
+| Area | Skills |
+|---|---|
+| Manual Testing | Functional, Regression, Smoke, Sanity, Integration, System, E2E |
+| Web Testing | Functional, UI, Cross-Browser, Compatibility |
+| Mobile Testing | Android, iOS, Functional, UI, Usability, Regression |
+| API Testing | Postman, REST API, JSON, Request/Response Validation |
+| Automation | Selenium, Java, TestNG, REST Assured |
+| Database | SQL, MySQL, Data Validation |
+| Test Management | JIRA, Zephyr, RTM, Test Execution |
+| Monitoring | Logs, Kibana, Grafana |
+| Methodology | Agile / Scrum, STLC, SDLC |
+| AI for QA | GenAI-assisted Testing, Test Case Generation |
+
+---
+
+## 📌 Currently Focused On
 
 ```text
 Manual Testing
       +
 API Testing
       +
-REST Assured
-      +
 Selenium Automation
+      +
+REST Assured
       +
 Java
       +
-GenAI & Gemini
+GenAI for QA
       =
 Quality Engineering 🚀
 ```
 
 ---
 
-## 📌 Featured Repositories
-
-📁 `manual-testing-project`
-
-📁 `selenium-java-automation`
-
-📁 `rest-assured-api-automation`
-
-📁 `postman-api-testing`
-
-📁 `mobile-testing-project`
-
-📁 `genai-qa-testing`
-
-📁 `sql-testing`
-
----
-
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/apchandan22/
+<p align="center">
+  <a href="https://www.linkedin.com/in/apchandan22/">LinkedIn</a> •
+  <a href="mailto:apchandu22@gmail.com">Email</a> •
+  <a href="https://github.com/apchandu22">GitHub</a>
+</p>
 
-📧 Email: apchandu22@gmail.com
+<p align="center">
+  <i>Open to Software Test Engineer / QA Engineer opportunities.</i>
+</p>
 
-🐙 GitHub: https://github.com/apchandu22
-
----
-
-### 🚀 Open to QA / Software Test Engineer Opportunities
-
-**Manual Testing | Web & Mobile Testing | API Testing | Automation Testing | Selenium | REST Assured | Java | Postman | SQL | GenAI | Gemini**
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
