@@ -163,19 +163,6 @@ QA examples demonstrating GenAI-assisted test scenario creation, test case gener
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apchandu22&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apchandu22&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=apchandu22&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 🎯 Why QA?
 
 I enjoy finding defects before users do, understanding application behavior, designing meaningful test coverage, and improving software quality through structured testing and continuous learning.
@@ -187,7 +174,7 @@ I enjoy finding defects before users do, understanding application behavior, des
 <p align="center">
   <a href="https://www.linkedin.com/in/apchandan22/">LinkedIn</a> •
   <a href="mailto:apchandu22@gmail.com">Email</a> •
-  <strong>📞 Call: 8880995886</strong>
+  <strong>📞 8880995886</strong>
 </p>
 
 <p align="center">
