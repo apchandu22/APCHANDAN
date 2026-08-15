@@ -81,8 +81,6 @@ Requirements → Test Planning → Test Design → Automation / Execution
 Defect Reporting → Retesting → Regression → Release Validation → Closure
 ```
 
-> Portfolio examples use synthetic data and do not contain confidential production/customer information.
-
 ## 📫 Connect
 
 <p align="center"><strong>Open to Software Test Engineer / QA Engineer opportunities.</strong></p>
