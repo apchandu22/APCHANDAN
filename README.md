@@ -1,11 +1,9 @@
 # 👋 Hi, I'm A P Chandan
 
-<p align="center">
-  <strong>Software Test Engineer | Manual Testing | API Testing | Web & Mobile Testing | Automation Testing</strong>
-</p>
+<p align="center"><strong>Software Test Engineer | Manual Testing | API Testing | Selenium Java | Web & Mobile Testing | GenAI for QA</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Software+Test+Engineer;Manual+%26+Automation+Testing;Web+%26+Mobile+Application+Testing;API+Testing+%7C+Postman+%7C+SQL;Selenium+Java+%7C+TestNG+%7C+RestAssured;Agile+%7C+STLC+%7C+SDLC+%7C+GenAI+for+QA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Software+Test+Engineer;Manual+%26+Automation+Testing;Selenium+Java+%7C+TestNG+%7C+Maven;API+Testing+%7C+Postman+%7C+SQL;Web+%26+Mobile+Application+Testing;Agile+%7C+STLC+%7C+SDLC+%7C+GenAI+for+QA" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -17,39 +15,22 @@
 
 ## 👨‍💻 About Me
 
-Software Test Engineer with **3+ years of experience** in **Manual Testing**, with hands-on exposure to **API Testing and Automation Testing** across Web, Android and iOS applications.
+Software Test Engineer with **3+ years of experience** in Manual Testing, with hands-on exposure to **API Testing and Selenium Java Automation** across Web, Android and iOS applications.
 
-I focus on building practical QA coverage across the **STLC** — from requirement analysis and test design to defect management, retesting, regression and release validation.
-
-### 🧪 Core QA Expertise
-
-- Requirement Analysis & Test Planning
-- Test Scenario & Test Case Design
-- Functional, Regression, Smoke & Sanity Testing
-- Integration, System & End-to-End Testing
-- Positive, Negative & Boundary Testing
-- Exploratory & Compatibility Testing
-- Defect Reporting, Tracking, Retesting & Closure
-- RTM & Test Execution Reporting
-- REST API Testing using Postman
-- SQL / MySQL Data Validation
-- Application Logs, Kibana & Grafana
-- Agile / Scrum, SDLC & STLC
-
----
+I focus on practical QA coverage across the **STLC** — requirement analysis, test design, automation, defect management, retesting, regression and release validation.
 
 ## 🛠️ Technical Skills
 
 | Area | Skills |
 |---|---|
 | Manual Testing | Functional, Regression, Smoke, Sanity, Integration, System, E2E, Exploratory, Usability, Compatibility |
-| API Testing | Postman, REST API, REST Assured, JSON, Status Codes, Headers, Authentication, API Chaining |
 | Automation | Selenium WebDriver, Java, TestNG, Maven, Page Object Model, XPath, CSS Selectors, Explicit Waits |
+| API Testing | Postman, REST API, REST Assured, JSON, Status Codes, Headers, Authentication, API Chaining |
 | Database | SQL, MySQL, Data Validation |
 | Test Management | JIRA, Zephyr, RTM, Defect Lifecycle |
 | Mobile Testing | Android, iOS, Functional, UI, Usability, Network & Regression |
 | Logs & Monitoring | Application Logs, Kibana, Grafana |
-| CI / Version Control | Git, GitHub, Jenkins, CI/CD concepts |
+| CI / Version Control | Git, GitHub, GitHub Actions, Jenkins, CI/CD concepts |
 | Methodology | Agile / Scrum, STLC, SDLC |
 | AI for QA | GenAI-assisted Test Case, Scenario, Test Data & Defect Analysis |
 
@@ -58,105 +39,52 @@ I focus on building practical QA coverage across the **STLC** — from requireme
 ## 📂 Featured QA Portfolio
 
 ### 🧪 Manual Testing Project
-**End-to-end e-commerce QA portfolio demonstrating practical manual testing activities.**
+End-to-end e-commerce QA portfolio covering requirements, test plans, scenarios, test cases, RTM, regression, defects, API testing, logs and Agile QA activities.
 
-Covers:
-- Requirements & Test Plan
-- Testing Strategy & Approaches
-- Test Scenarios & Test Cases
-- Test Data & RTM
-- Smoke, Sanity, Functional, Integration & E2E Testing
-- Regression Testing
-- JIRA Defect Management
-- Test Execution & Test Summary
-- Postman API Testing
-- Logs & Monitoring
-- Agile / Scrum QA activities
-
-👉 **[View Manual Testing Project](https://github.com/apchandu22/manual-testing-project)**
+👉 [View Manual Testing Project](https://github.com/apchandu22/manual-testing-project)
 
 ### 🤖 GenAI QA Testing
-**Portfolio demonstrating practical use of Generative AI in QA workflows.**
+Practical GenAI-assisted QA portfolio covering test scenario generation, test cases, prompt engineering, test data, defect analysis, API testing and AI-vs-QA review.
 
-Covers examples around:
-- AI-assisted test scenario generation
-- Test case generation & optimization
-- Positive / negative test coverage
-- Test data generation
-- Defect analysis assistance
-- QA documentation
-- Automation code assistance
+👉 [View GenAI QA Project](https://github.com/apchandu22/genai-qa-testing)
 
-👉 **[View GenAI QA Project](https://github.com/apchandu22/genai-qa-testing)**
+### 🖥️ Selenium Java Automation
+Selenium WebDriver + Java + TestNG + Maven automation framework using **Page Object Model**, explicit waits, assertions and GitHub Actions CI for the Sauce Demo Shopify e-commerce storefront.
+
+👉 [View Selenium Java Automation Project](https://github.com/apchandu22/apchandu22/tree/main/selenium-java-automation)
 
 ### 🔗 API Testing
-API testing examples are included within the manual testing portfolio, covering:
+API testing examples covering GET, POST, PUT, PATCH, DELETE, JSON, status codes, headers, authentication, API chaining, environment variables and response validation.
 
-`GET` `POST` `PUT` `PATCH` `DELETE` `JSON` `Status Codes` `Headers` `Parameters` `Authentication` `API Chaining` `Environment Variables` `Response Validation`
-
-👉 **[View API Testing](https://github.com/apchandu22/manual-testing-project/tree/main/10-API-Testing)**
+👉 [View API Testing](https://github.com/apchandu22/manual-testing-project/tree/main/10-API-Testing)
 
 ---
+
+## 🎯 QA Strengths
+
+- Requirement Analysis & Test Planning
+- Test Scenario & Test Case Design
+- Functional, Regression, Smoke & Sanity Testing
+- Web & Mobile Application Testing
+- Selenium Java Automation
+- API Testing with Postman
+- SQL / MySQL Data Validation
+- Defect Investigation using Logs and Monitoring
+- Agile / Scrum, SDLC & STLC
+- GenAI-assisted QA workflows
 
 ## 🔄 QA Lifecycle
 
 ```text
-Requirements
-    ↓
-Test Planning
-    ↓
-Test Scenarios
-    ↓
-Test Cases & Test Data
-    ↓
-Smoke / Sanity
-    ↓
-Functional / Integration / E2E
-    ↓
-Defect Reporting & Tracking
-    ↓
-Retesting
-    ↓
-Regression Testing
-    ↓
-Release Validation
-    ↓
-Test Summary & Closure
+Requirements → Test Planning → Test Design → Automation / Execution
+       ↓
+Defect Reporting → Retesting → Regression → Release Validation → Closure
 ```
 
----
-
-## 🎯 What I Bring as a QA Engineer
-
-- Strong manual testing fundamentals
-- Practical Web & Mobile testing experience
-- API validation using Postman
-- SQL-based data verification
-- Defect investigation using logs and monitoring tools
-- Automation exposure with Selenium + Java
-- Agile/Scrum delivery experience
-- GenAI-assisted QA workflows
-- Structured test documentation and traceability
-
----
-
-## 📊 GitHub Portfolio
-
-This profile is focused on **QA Engineering projects and practical testing artifacts**, including test plans, scenarios, test cases, RTM, API testing, defect reports, execution reports, regression suites and GenAI testing examples.
-
-> Portfolio data and defects are synthetic examples created for demonstration and learning purposes. No confidential production/customer data is included.
-
----
+> Portfolio examples use synthetic data and do not contain confidential production/customer information.
 
 ## 📫 Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/apchandan22/">LinkedIn</a> •
-  <a href="mailto:apchandu22@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <strong>Open to Software Test Engineer / QA Engineer opportunities.</strong>
-</p>
+<p align="center"><strong>Open to Software Test Engineer / QA Engineer opportunities.</strong></p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
