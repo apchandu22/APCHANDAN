@@ -1,11 +1,11 @@
 # 👋 Hi, I'm A P Chandan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Software+Test+Engineer;Manual+Testing+%7C+API+Testing+%7C+Automation+Testing;Web+%26+Mobile+Application+Testing;JIRA+%7C+Postman+%7C+SQL+%7C+Selenium+%7C+Java;Agile+%2F+Scrum+%7C+STLC+%7C+SDLC" alt="Typing animation" />
+  <strong>Software Test Engineer | Manual Testing | API Testing | Web & Mobile Testing | Automation Testing</strong>
 </p>
 
 <p align="center">
-  <strong>Software Test Engineer | Manual Testing | API Testing | Web & Mobile Testing | Automation Testing</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Software+Test+Engineer;Manual+%26+Automation+Testing;Web+%26+Mobile+Application+Testing;API+Testing+%7C+Postman+%7C+SQL;Selenium+Java+%7C+TestNG+%7C+RestAssured;Agile+%7C+STLC+%7C+SDLC+%7C+GenAI+for+QA" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-Software Test Engineer with **3+ years of experience** in Software Testing, specializing in **Manual Testing** with hands-on experience in **API and Automation Testing**.
+Software Test Engineer with **3+ years of experience** in **Manual Testing**, with hands-on exposure to **API Testing and Automation Testing** across Web, Android and iOS applications.
 
-Experienced in testing **Web, Android and iOS applications** across functional, regression, smoke, sanity, integration, system and end-to-end testing. Strong experience in test case design, defect management, API validation, SQL validation and Agile/Scrum practices.
+I focus on building practical QA coverage across the **STLC** — from requirement analysis and test design to defect management, retesting, regression and release validation.
 
 ### 🧪 Core QA Expertise
 
@@ -29,170 +29,134 @@ Experienced in testing **Web, Android and iOS applications** across functional, 
 - Integration, System & End-to-End Testing
 - Positive, Negative & Boundary Testing
 - Exploratory & Compatibility Testing
-- Defect Reporting, Tracking & Retesting
+- Defect Reporting, Tracking, Retesting & Closure
 - RTM & Test Execution Reporting
 - REST API Testing using Postman
 - SQL / MySQL Data Validation
+- Application Logs, Kibana & Grafana
+- Agile / Scrum, SDLC & STLC
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technical Skills
 
-| Category | Skills |
+| Area | Skills |
 |---|---|
-| Test Management | JIRA, Zephyr, RTM |
-| API Testing | Postman, REST API, REST Assured |
-| Database | SQL, MySQL |
-| Automation | Selenium WebDriver, Java, TestNG, Maven, POM |
-| Web Testing | Functional, UI, Cross-Browser, Compatibility |
-| Mobile Testing | Android, iOS, Functional, UI, Usability, Regression |
+| Manual Testing | Functional, Regression, Smoke, Sanity, Integration, System, E2E, Exploratory, Usability, Compatibility |
+| API Testing | Postman, REST API, REST Assured, JSON, Status Codes, Headers, Authentication, API Chaining |
+| Automation | Selenium WebDriver, Java, TestNG, Maven, Page Object Model, XPath, CSS Selectors, Explicit Waits |
+| Database | SQL, MySQL, Data Validation |
+| Test Management | JIRA, Zephyr, RTM, Defect Lifecycle |
+| Mobile Testing | Android, iOS, Functional, UI, Usability, Network & Regression |
 | Logs & Monitoring | Application Logs, Kibana, Grafana |
-| CI / Version Control | Git, GitHub, Jenkins |
+| CI / Version Control | Git, GitHub, Jenkins, CI/CD concepts |
 | Methodology | Agile / Scrum, STLC, SDLC |
-| AI for QA | GenAI-assisted Test Case & Scenario Generation |
+| AI for QA | GenAI-assisted Test Case, Scenario, Test Data & Defect Analysis |
 
 ---
 
-## 🔗 API Testing
+## 📂 Featured QA Portfolio
 
-Hands-on API testing using Postman with coverage of:
+### 🧪 Manual Testing Project
+**End-to-end e-commerce QA portfolio demonstrating practical manual testing activities.**
 
-`GET` `POST` `PUT` `DELETE` `JSON` `Status Codes` `Headers` `Parameters` `Authentication` `Request/Response Validation` `API Chaining` `Environment Variables` `Positive & Negative Testing`
+Covers:
+- Requirements & Test Plan
+- Testing Strategy & Approaches
+- Test Scenarios & Test Cases
+- Test Data & RTM
+- Smoke, Sanity, Functional, Integration & E2E Testing
+- Regression Testing
+- JIRA Defect Management
+- Test Execution & Test Summary
+- Postman API Testing
+- Logs & Monitoring
+- Agile / Scrum QA activities
 
----
+👉 **[View Manual Testing Project](https://github.com/apchandu22/manual-testing-project)**
 
-## 🤖 Automation Testing
+### 🤖 GenAI QA Testing
+**Portfolio demonstrating practical use of Generative AI in QA workflows.**
 
-Automation exposure using:
-
-`Selenium WebDriver` `Java` `TestNG` `Maven` `Page Object Model` `XPath` `CSS Selectors` `Explicit Waits` `Assertions` `Data-Driven Testing` `REST Assured`
-
----
-
-## 🤖 GenAI for QA
-
-Using GenAI to support QA activities such as:
-
-- Test scenario generation
-- Test case generation and optimization
-- Positive and negative scenario generation
+Covers examples around:
+- AI-assisted test scenario generation
+- Test case generation & optimization
+- Positive / negative test coverage
 - Test data generation
 - Defect analysis assistance
 - QA documentation
 - Automation code assistance
 
+👉 **[View GenAI QA Project](https://github.com/apchandu22/genai-qa-testing)**
+
+### 🔗 API Testing
+API testing examples are included within the manual testing portfolio, covering:
+
+`GET` `POST` `PUT` `PATCH` `DELETE` `JSON` `Status Codes` `Headers` `Parameters` `Authentication` `API Chaining` `Environment Variables` `Response Validation`
+
+👉 **[View API Testing](https://github.com/apchandu22/manual-testing-project/tree/main/10-API-Testing)**
+
 ---
 
-## 🔄 QA Testing Flow
+## 🔄 QA Lifecycle
 
 ```text
-Requirement Analysis
-        ↓
+Requirements
+    ↓
 Test Planning
-        ↓
-Test Scenario Design
-        ↓
-Test Case Design
-        ↓
-Test Data Preparation
-        ↓
-Environment & Build Validation
-        ↓
-Smoke Testing
-        ↓
-Functional Testing
-        ↓
-Integration Testing
-        ↓
-System / End-to-End Testing
-        ↓
+    ↓
+Test Scenarios
+    ↓
+Test Cases & Test Data
+    ↓
+Smoke / Sanity
+    ↓
+Functional / Integration / E2E
+    ↓
 Defect Reporting & Tracking
-        ↓
-Defect Retesting
-        ↓
+    ↓
+Retesting
+    ↓
 Regression Testing
-        ↓
+    ↓
 Release Validation
-        ↓
-Test Closure / Summary
+    ↓
+Test Summary & Closure
 ```
 
 ---
 
-## 📂 Featured QA Projects
+## 🎯 What I Bring as a QA Engineer
 
-### 🧪 Manual Testing Project
-
-End-to-end manual testing covering:
-
-- Requirements Analysis
-- Test Plan
-- Testing Strategy & Testing Approaches
-- Test Scenarios
-- Test Cases
-- Test Data
-- RTM
-- Smoke / Sanity Testing
-- Functional / Integration / E2E Testing
-- Regression Testing
-- JIRA Defect Management
-- Test Execution
-- Test Summary
-
-👉 **[View Manual Testing Project](https://github.com/apchandu22/manual-testing-project)**
-
-### 🔗 Postman API Testing Project
-
-Comprehensive REST API testing covering:
-
-- API Requirements & Test Strategy
-- API Test Scenarios & Test Cases
-- GET / POST / PUT / PATCH / DELETE
-- Positive & Negative Testing
-- Boundary & Validation Testing
-- Authentication & Authorization
-- Status Code & JSON Validation
-- Postman Environment Variables
-- API Chaining
-- Postman Test Scripts
-- Defect Reporting & Retesting
-- API Regression Testing
-- API Test Execution & Reporting
-
-👉 **[View Postman API Testing Project](https://github.com/apchandu22/manual-testing-project/tree/main/10-API-Testing)**
-
-### 🚀 Selenium Automation
-
-Selenium WebDriver automation using Java, TestNG, Maven and Page Object Model.
-
-### 📱 Mobile Testing
-
-Manual testing examples covering Android and iOS functional, compatibility, usability, network and regression scenarios.
-
-### 🤖 GenAI QA Testing
-
-QA examples demonstrating GenAI-assisted test scenario creation, test case generation, test data and defect analysis.
+- Strong manual testing fundamentals
+- Practical Web & Mobile testing experience
+- API validation using Postman
+- SQL-based data verification
+- Defect investigation using logs and monitoring tools
+- Automation exposure with Selenium + Java
+- Agile/Scrum delivery experience
+- GenAI-assisted QA workflows
+- Structured test documentation and traceability
 
 ---
 
-## 🎯 Why QA?
+## 📊 GitHub Portfolio
 
-I enjoy finding defects before users do, understanding application behavior, designing meaningful test coverage, and improving software quality through structured testing and continuous learning.
+This profile is focused on **QA Engineering projects and practical testing artifacts**, including test plans, scenarios, test cases, RTM, API testing, defect reports, execution reports, regression suites and GenAI testing examples.
+
+> Portfolio data and defects are synthetic examples created for demonstration and learning purposes. No confidential production/customer data is included.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apchandan22/">LinkedIn</a> •
-  <a href="mailto:apchandu22@gmail.com">Email</a> •
-  <strong>📞 8880995886</strong>
+  <a href="mailto:apchandu22@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <i>Open to Software Test Engineer / QA Engineer opportunities.</i>
+  <strong>Open to Software Test Engineer / QA Engineer opportunities.</strong>
 </p>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<p align="center">⭐ Thanks for visiting my profile!</p>
