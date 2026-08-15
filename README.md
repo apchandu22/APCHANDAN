@@ -51,7 +51,7 @@ Practical GenAI-assisted QA portfolio covering test scenario generation, test ca
 ### 🖥️ Selenium Java Automation
 Selenium WebDriver + Java + TestNG + Maven automation framework using **Page Object Model**, explicit waits, assertions and GitHub Actions CI for the Sauce Demo Shopify e-commerce storefront.
 
-👉 [View Selenium Java Automation Project](https://github.com/apchandu22/apchandu22/tree/main/selenium-java-automation)
+👉 [View Selenium Java Automation Project](https://github.com/apchandu22/selenium-java-automation)
 
 ### 🔗 API Testing
 API testing examples covering GET, POST, PUT, PATCH, DELETE, JSON, status codes, headers, authentication, API chaining, environment variables and response validation.
